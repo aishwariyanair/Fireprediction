@@ -1,1 +1,1 @@
-# Fireprediction
+# Fire prediction
